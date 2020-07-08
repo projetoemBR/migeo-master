@@ -1,6 +1,6 @@
 # MIGEO: 
 # Modelagem e Inversão Geofísica Eletromagnética
-![miGEO Image Logo](https://github.com/projetoemBR/migeo-master/migeo-logo2.png)
+![miGEO Image Logo](https://github.com/projetoemBR/migeo-master/blob/master/migeo-logo2.png)
 
 MIGEO é um pacote python de modelagem e inversão geofísica eletromagnética por volumes finitos baseada em códigos open-source.  
 
