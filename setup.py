@@ -7,7 +7,7 @@ setuptools.setup(
     name="migeo", # Replace with your own username
     version="v0.0.1",
     author="Projeto EM UFPA/Petrobrás",
-    author_email="projetoemperoba@gmail.com",
+    author_email="isadora.s.macedo@gmail.com",
     description="Modelagem e inversão eletromagnética por volumes finitos: MT e MCSEM.",
     long_description=long_description,
     long_description_content_type="text/markdown",
