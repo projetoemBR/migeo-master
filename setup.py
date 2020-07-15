@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/projetoemBR/migeo-master",
-#    download_url=,
+    download_url="https://github.com/projetoemBR/migeo-master/archive/v0.0.1.tar.gz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
